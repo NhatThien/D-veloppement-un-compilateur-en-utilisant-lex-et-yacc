@@ -1,0 +1,13 @@
+# temporary object files during C compilation
+*.o
+compiler
+
+#lex, yacc generated files
+lex.yy.c
+rule.tab.h
+rule.tab.c
+rule.output
+
+flex
+libfl.a
+assembleur.txt
